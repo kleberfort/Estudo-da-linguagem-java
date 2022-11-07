@@ -13,4 +13,7 @@ CAPITULO 3: INTRODUÇÃO A CLASSES, OBJETOS, MÉTODOS E STRINGS.
 - Nomes de classes, de método e de variáveis são identificadores, todos usam o mesmo esquema de nomeação com a notação camelo. 
 - Nomes de classes começam com letra maiúsculas.
 - Nomes de métodos e variáveis iniciam com uma letra minúsculas.
-
+- Um Objeto tem atributos, implementados como variáveis de instância que o acompanham ao longo da sua vida.
+- Cada objeto (instância) da classe tem sua própria cópia das variáveis de instância da classe.
+- variáveis de isntância são declaradas dentro de uma declaração de classe.
+- 
