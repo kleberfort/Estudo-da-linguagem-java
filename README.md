@@ -10,3 +10,7 @@ CAPITULO 3: INTRODUÇÃO A CLASSES, OBJETOS, MÉTODOS E STRINGS.
 
 - Váriáveis de instância de uma classe armazenam dados para cada objeto(isto é, cada instância) da classe.
 
+- Nomes de classes, de método e de variáveis são identificadores, todos usam o mesmo esquema de nomeação com a notação camelo. 
+- Nomes de classes começam com letra maiúsculas.
+- Nomes de métodos e variáveis iniciam com uma letra minúsculas.
+
