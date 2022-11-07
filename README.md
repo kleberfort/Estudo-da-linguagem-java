@@ -21,4 +21,11 @@ CAPITULO 3: INTRODUÇÃO A CLASSES, OBJETOS, MÉTODOS E STRINGS.
 
 - O tipo de retorno void, indica que executará uma tarefa, mas não retornará nenhuma informação ao seu chamador.
 
-- Os parâmetros são declarados em uma LISTA DE PARÂMETROS que está loca
+- Os parâmetros são declarados em uma LISTA DE PARÂMETROS que está localizada entre os parênteses que seguem o nome do método no título dele. quando existem múltiplos parâmetros, cada um é separado por vírgula.
+
+- Variáveis declaradas no corpo de um método específico são VARIÁVEIS LOCAIS que somente podem ser utilizados nele. Cada método só pode acessar suas próprias variáveis locais. Quando esse método terminar, os valores de sua variáveis locais são perdidos.
+- Os parâmetros de um método também são variáveis locais dele.
+
+- Se um método contiver uma variável local com o mesmo nome de uma variável de instância, o corpo do método irá referenciar a variável local em vez da variável de instância. O corpo do método pode usar a palavra-chave THIS  para referenciar a variável de instância simulada explicitamente. 
+
+- Uma classe que contém um método main inicia uma execução de um aplicativo java.
