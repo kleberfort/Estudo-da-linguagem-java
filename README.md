@@ -16,4 +16,9 @@ CAPITULO 3: INTRODUÇÃO A CLASSES, OBJETOS, MÉTODOS E STRINGS.
 - Um Objeto tem atributos, implementados como variáveis de instância que o acompanham ao longo da sua vida.
 - Cada objeto (instância) da classe tem sua própria cópia das variáveis de instância da classe.
 - variáveis de isntância são declaradas dentro de uma declaração de classe.
-- 
+
+- As variáveis ou método declarados com o modificador de acesso private só são acessíveis a métodos da classe em que isso ocorre.
+
+- O tipo de retorno void, indica que executará uma tarefa, mas não retornará nenhuma informação ao seu chamador.
+
+- Os parâmetros são declarados em uma LISTA DE PARÂMETROS que está loca
