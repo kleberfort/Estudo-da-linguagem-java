@@ -29,3 +29,5 @@ CAPITULO 3: INTRODUÇÃO A CLASSES, OBJETOS, MÉTODOS E STRINGS.
 - Se um método contiver uma variável local com o mesmo nome de uma variável de instância, o corpo do método irá referenciar a variável local em vez da variável de instância. O corpo do método pode usar a palavra-chave THIS  para referenciar a variável de instância simulada explicitamente. 
 
 - Uma classe que contém um método main inicia uma execução de um aplicativo java.
+
+
