@@ -30,4 +30,11 @@ CAPITULO 3: INTRODUÇÃO A CLASSES, OBJETOS, MÉTODOS E STRINGS.
 
 - Uma classe que contém um método main inicia uma execução de um aplicativo java.
 
+- Diferente das variáveis locais, que não são inicializadas de forma automática, toda VARIÁVEL DE INSTÂNCIA tem um VALOR INICIAL PADRÃO - Fornecida pelo Java quando você não especifica o valor de variável de instância. 
+
+- Uma chamada de método pode fornecer argumentos cujos valores são atribuídos aos parâmetros de método correspondente. 
+
+- O número de argumentos na chamada de método deve CORRESPONDER ao de itens na lista de PARÂMETROS da declaração do método. Os tipos de argumentos na chamada de método precisam ser consistente com os tipos de parâmetro correspondentes na declaração de método. 
+
+- Classes no mesmo pacote são importadas implicitamente para os arquivos de código-fonte de outras classes nesse pacote. Assim uma declaração import não é necessária quando uma classe adota outra no mesmo pacote. 
 
