@@ -38,3 +38,8 @@ CAPITULO 3: INTRODUÇÃO A CLASSES, OBJETOS, MÉTODOS E STRINGS.
 
 - Classes no mesmo pacote são importadas implicitamente para os arquivos de código-fonte de outras classes nesse pacote. Assim uma declaração import não é necessária quando uma classe adota outra no mesmo pacote. 
 
+- Os método set podem ser programados para validar seus argumentos e rejeitar qualquer tentativa de definir os dados como valores ruins. e um método get pode apresentar os dados de uma forma diferente.
+
+- A declaração de variáveis de instância com o modificador de acesso private é conhecida como ocultamento de dados. quando um programa cria um objeto da classe, a variável é encapsulada no objeto e pode ser acessada apenas por métodos da classe do objeto. 
+
+
