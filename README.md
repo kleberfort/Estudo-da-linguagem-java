@@ -42,4 +42,12 @@ CAPITULO 3: INTRODUÇÃO A CLASSES, OBJETOS, MÉTODOS E STRINGS.
 
 - A declaração de variáveis de instância com o modificador de acesso private é conhecida como ocultamento de dados. quando um programa cria um objeto da classe, a variável é encapsulada no objeto e pode ser acessada apenas por métodos da classe do objeto. 
 
+> TIPOS PRIMITIVOS VERSUS TIPOS POR REFERENCIA
 
+- Os tipos de dados são dividios em tipos primitivos e por referência.
+- Os tipos primitivos são: int, boolean, byte, char, short, long, float e double. Todos os tipos não primitivos são por referência, assim as classes que especificam o objeto são por referência. 
+- OS PROGRAMAS UTILIZAM AS VARIÁVEIS DE TIPO POR REFERÊNCIA PARA ARMAZENAR AS LOCALIZAÇÕES DE OBJETOS NA MEMÓRIA DO COMPUTADOR. DIZEMOS QUE ESSA VARIÁVEL REFERENCIA UM OBJETO NO PROGRAMA. OBJETOS QUE SÃO REFERÊNCIADOS PODEM CONTER MUITAS VARIÁVEIS DE INSTÂNCIA. 
+
+- Para chamar métodos em um objeto, é preciso de uma referência a ele.
+- Variáveis de tipo primitivo não fazem referência a objetos, assim elas não podem ser usadas para chamar métodos.
+- 
