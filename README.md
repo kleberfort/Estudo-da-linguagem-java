@@ -50,4 +50,4 @@ CAPITULO 3: INTRODUÇÃO A CLASSES, OBJETOS, MÉTODOS E STRINGS.
 
 - Para chamar métodos em um objeto, é preciso de uma referência a ele.
 - Variáveis de tipo primitivo não fazem referência a objetos, assim elas não podem ser usadas para chamar métodos.
-- 
+- Cada classe que é declarada tem como fornecer um CONSTRUTOR com PARÂMETROS que podem ser utilizados para inicializar um objeto de uma classe quando o objeto for criado. o JAVA REQUER uma chamada de CONSTRUTOR para CADA OBJETO QUE É DESENVOLVIDO. 
