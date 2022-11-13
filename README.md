@@ -52,3 +52,6 @@ CAPITULO 3: INTRODUÇÃO A CLASSES, OBJETOS, MÉTODOS E STRINGS.
 - Variáveis de tipo primitivo não fazem referência a objetos, assim elas não podem ser usadas para chamar métodos.
 - Cada classe que é declarada tem como fornecer um CONSTRUTOR com PARÂMETROS que podem ser utilizados para inicializar um objeto de uma classe quando o objeto for criado. o JAVA REQUER uma chamada de CONSTRUTOR para CADA OBJETO QUE É DESENVOLVIDO. 
 - Um construtor deve ter o mesmo nome da classe. Uma lista de parâmetros de um construtor especifica que ele requer um ou mais dados para executar sua tarefa. 
+- Os construtores não podem retornar valores, não podem especificar um tipo de retorno (nem mesmo void). os construtores são declarados public. 
+- Em qualquer classe, que não declare explicitamente um construtor, o compilador fornece um tipo padrão (que sempre não tem parâmetros). Quando uma classe tem somente o construtor padrão, as variáveis de instância da classe são inicializados de acordo com seus valores padrões. As classes podems ter múltiplos parâmetros. 
+- 
