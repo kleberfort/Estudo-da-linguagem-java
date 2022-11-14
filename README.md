@@ -54,4 +54,6 @@ CAPITULO 3: INTRODUÇÃO A CLASSES, OBJETOS, MÉTODOS E STRINGS.
 - Um construtor deve ter o mesmo nome da classe. Uma lista de parâmetros de um construtor especifica que ele requer um ou mais dados para executar sua tarefa. 
 - Os construtores não podem retornar valores, não podem especificar um tipo de retorno (nem mesmo void). os construtores são declarados public. 
 - Em qualquer classe, que não declare explicitamente um construtor, o compilador fornece um tipo padrão (que sempre não tem parâmetros). Quando uma classe tem somente o construtor padrão, as variáveis de instância da classe são inicializados de acordo com seus valores padrões. As classes podems ter múltiplos parâmetros. 
-- 
+
+> FORMATANDO NÚMEROS DE PONTO FLUTUANTE PARA EXIBIÇÃO
+- O formato %.2f. O especificador de formato %f é utilizado para gerar saída de valores de TIPO FLOAT OU DOUBLE. O .2 entre % e f representa o número de casas decimais (2) que devem ser colocadas à direita do ponto decimal no número de ponto flutuante - também conhecido como a PRECISÃO do número. Qualquer valor de ponto flutuante com %.2f será ARRENDONDADO para a casa decimal dos centésimos. 
